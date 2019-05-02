@@ -1,0 +1,17 @@
+title = "Resume"
+url = "/about/:filename?"
+layout = "default"
+==
+<?php
+function onStart() {
+  $filename = $this->param('filename', 'resume');
+
+  if ($filename !== 'resume') {
+    return Redirect::to('/404');
+  }
+
+  $this['filename'] = $filename;
+}
+?>
+==
+{% content filename ~ '.md' %}

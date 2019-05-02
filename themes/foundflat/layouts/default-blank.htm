@@ -1,0 +1,54 @@
+<!doctype html>
+<html class="no-js" lang="en" dir="ltr">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ this.page.title }}</title>
+  <link href="{{ [
+    'assets/css/foundation.min.css',
+    'assets/css/app.css',
+    'assets/css/styles.css'
+  ]|theme }}" rel="stylesheet">
+
+  <!-- <link href="{{ [
+    'partials/building-blocks/top-bar-nav.scss'
+  ]|theme }}" rel="stylesheet"> -->
+</head>
+
+<body>
+      <!-- START: Header -->
+      {% partial 'header' %}
+      <!-- END: Header -->
+
+
+  <div class="grid-container">
+    <div class="grid-x grid-padding-x">
+      <!-- START: Content -->
+      <div class="large-12 cell">
+        <h1>{{ this.page.title }}</h1>
+        {% page %}
+      </div>
+      <!-- END: Content -->
+    </div>
+
+
+    <div class="grid-x grid-padding-x">
+      <!-- START: Footer -->
+      <div class="large-12 cell">
+        {% partial 'footer' %}
+      </div>
+      <!-- END: Footer -->
+    </div>
+
+  </div><!-- END: .grid-container -->
+
+  <script src="{{ [
+    'assets/js/vendor/jquery-slim.min.js',
+    'assets/js/vendor/what-input.min.js',
+    'assets/js/vendor/foundation.min.js',
+    'assets/js/app.js'
+  ]|theme }}"></script>
+</body>
+
+</html>

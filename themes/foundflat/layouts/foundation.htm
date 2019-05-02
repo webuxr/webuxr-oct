@@ -1,0 +1,28 @@
+<!doctype html>
+<html class="no-js" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ this.page.title }}</title>
+    <link href="{{ ['assets/css/foundation.css', 'assets/css/app.css', 'assets/styles.css', 'assets/fonts.css']|theme }}" rel="stylesheet">
+  </head>
+  <body>
+    <div class="grid-container">
+      <div class="grid-x grid-padding-x">
+        <div class="large-12 cell">
+          <h1>{{ this.page.title }}</h1>
+          <hr>
+          <small><a href="{{ 'home'|page }}">Welcome to {{ this.page.title }}</a></small>
+        </div>
+      </div>
+
+      {% partial 'zfIntroCallouts' %}
+
+      {% partial 'zfIntroGrids' %}
+
+    </div>
+    
+    <script src="{{ ['assets/js/vendor/jquery.js', 'assets/js/vendor/what-input.js', 'assets/js/vendor/foundation.js', 'assets/js/vendor/app.js']|theme }}"></script>
+  </body>
+</html>
