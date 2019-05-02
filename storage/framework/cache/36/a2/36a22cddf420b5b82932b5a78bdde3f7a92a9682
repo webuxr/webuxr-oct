@@ -1,0 +1,683 @@
+1555987305a:1:{s:10:"resume.htm";a:5:{s:8:"fileName";s:10:"resume.htm";s:7:"content";s:17852:"<!DOCTYPE html>
+<html lang="en_US" class="no-js">
+<head>
+	<meta charset="utf-8">
+	<!--
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no, minimal-ui=yes">
+	-->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<title>Ryan R. Smith - Resume</title>
+
+	<meta name="keywords" content="">
+	<meta name="description" content="">
+	<!-- <meta content="index,follow" name="robots"> -->
+
+	<!-- https://necolas.github.io/normalize.css -->
+	<link href="assets/styles/normalize.min.css"
+	      rel="stylesheet"
+	      media="screen"
+	      charset="utf-8">
+
+	<!-- //developers.google.com/fonts/docs/getting_started#specifying_font_families_and_styles_in_a_stylesheet_url -->
+	<!--
+	//fonts.googleapis.com/css?family=Lato:italic|Open+Sans:bold
+	//fonts.googleapis.com/css?family=Lato:i|Open+Sans:b
+	//fonts.googleapis.com/css?family=Lato:i|Open+Sans:700
+	-->
+	<link href="//fonts.googleapis.com/css?family=Lato:100,200,400|Open+Sans:100,200,400|Abel:100,200,400"
+	      rel="stylesheet"
+	      media="screen"
+	      charset="utf-8">
+
+	<link href="assets/styles/styles.min.css"
+	      rel="stylesheet"
+	      media="screen"
+	      charset="utf-8">
+
+	<link href="assets/styles/custom.css"
+	      rel="stylesheet"
+	      media="all"
+	      charset="utf-8">
+
+	<script src="assets/js/scripts.min.js"
+	        charset="utf-8">
+</head>
+
+<body>
+  <div class="wrap">
+
+<!-- Typographic Classes
+		aSans loose w4 blue
+		lSans norm w2 grey
+		lSans norm w2 black
+ -->
+    <header>
+      <h1 class="aSans tight w4 blue">RYAN R. SMITH</h1>
+      <p class="lSans loose w2">
+        <b class="w4 blue">UX DESIGNER / UI DEVELOPER</b><br>
+        <a class="w2 black" href="tel:608-358-0515" title="Give Ryan a call">608-358-0515</a>
+        <span class="line">|</span>
+        <a href="mailto:webuxr@gmail.com">webuxr@gmail.com</a>
+        <span class="line">|</span>
+        <a href="//www.linkedin.com/in/ryansmith" title="Check out Ryan on LinkedIn" target="_blank">linkedin.com/in/ryansmith</a>
+        <span class="line">|</span>
+        <a href="//www.coroflot.com/webuxr" title="See some past and recent work from Ryan" target="_blank">coroflot.com/webuxr</a>
+        <span class="line">|</span>
+        <a href="//twitter.com/webuxr" title="See what Ryan is tweeting about">twitter.com/webuxr</a>
+      </p>
+    </header>
+
+
+    <main>
+      <section class="summary">
+        <h2>SUMMARY</h2>
+        <article>
+          <p class="lead">
+            With over 18 years of web technology experience, Ryan Smith is a passionate, user-centered designer, front-end developer, and user experience professional.
+            He subscribes to open source thinking, and coupled with his diverse portfolio, extensive software knowledge, and excellent communication skills makes him a clear choice whom will thrive within your agile team environment.
+          </p>
+        </article>
+      </section>
+
+      <section class="experience">
+        <h2>Experience</h2>
+        <article>
+          <h3>Trek Bicycle Corporation / <span class="blue">UI Engineer</span></h3>
+          <h4>FEBRUARY 2017 to FEBRUARY 2018 in WATERLOO, WI</h4>
+          <ul>
+            <li>Member of remote, multi-time zone agile development team</li>
+            <li>Utilized Atlassian JIRA backlog tracking</li>
+            <li>User-centered feature development driven by customer feedback loops</li>
+            <li>Traffic stats verifies customer feedback and traffic stats informs visual design initiatives</li>
+            <li>User stories and acceptance criteria define our work</li>
+            <li>Our definition of done constrains focus to what matters and conveys quality deliverables</li>
+            <li>Focus on responsive and accessible UI development and implementation for trekbikes.com</li>
+            <li>IntelliJ IDEA/Grunt-SCSS/Bitbucket/Jenkins workflow</li>
+            <li>Utilize the same automation test scripts locally as are deployed in higher environments</li>
+            <li>Collaborate with design team via InVision mockups</li>
+          </ul>
+        </article>
+
+        <article>
+          <h3>Farwell Project Advisors / <span class="blue">UX/UI Developer</span></h3>
+          <h4>JANUARY 2014 to JANUARY 2017 in MADISON, WI</h4>
+          <ul>
+            <li>Turn client visions into proposals, site maps, style tiles, wireframes, and HTML prototypes</li>
+            <li>Iterate through prioritized backlogs of user stories, estimate work, and track progress daily</li>
+            <li>Visualize application interfaces as style guides</li>
+            <li>Convert style tiles and wireframes into high-fidelity mockups</li>
+            <li>Re-work prototypes based on research, team feedback, and collaboration with client</li>
+            <li>Implement approved designs as theme templates in both Drupal and WordPress CMSs</li>
+            <li>Maintain CMS codebases via Git and deploy via GitHub to Digital Ocean</li>
+          </ul>
+        </article>
+
+        <article>
+          <h3>Acumium / <span class="blue">Project Manager and UI Web Developer</span></h3>
+          <h4>DECEMBER 2013 to NOVEMBER 2014 in MADISON, WI</h4>
+          <ul>
+            <li>Forecast overlapping project delivery dates and over-communicate to client</li>
+            <li>Manage 2 dev teams, split by platform in a hybrid-agile project management environment</li>
+            <li>Track KPIs (key performance indicators) and velocities to communicate team performance</li>
+            <li>Work with both internal and client-based development teams to identify, estimate, plan, and schedule work distilled into epics, feature groups, tasks, and subtasks</li>
+            <li>Divide timelines for multiple projects into weekly sprints allowing for consistent, history-driven estimation, and team member commitments</li>
+          </ul>
+        </article>
+
+        <article>
+          <h3>Diesel Forward / <span class="blue">Drupal Web Developer</span></h3>
+          <h4>NOVEMBER 2010 to SEPTEMBER 2013 in WINDSOR, WI</h4>
+          <ul>
+            <li>Leverage mature Drupal themes and modify them Zen-garden style to jumpstart new projects</li>
+            <li>Override Drupal core and contrib modules for slim, accurate, fast-loading Drupal 6 and 7 sites</li>
+            <li>Collaborate with internal clients and dev team members to maintain company&rsquo;s web sites</li>
+            <li>Migrate company&rsquo;s shared web hosting to Drupal-specific, dedicated Acquia Dev Cloud hosting</li>
+            <li>Implement SaaS products like GitHub Issues, Workfront (AtTask), and Basecamp to manage projects, track code revisions, delegate issues or tasks</li>
+            <li>Respond to support tickets and work directly with customers to resolve issues and doc solutions</li>
+          </ul>
+        </article>
+
+        <article>
+          <h3>Ratio Switch / <span class="blue">UX Designer</span></h3>
+          <h4>JANUARY 2001 to JANUARY 2010 in SUN PRAIRIE, WI</h4>
+          <ul>
+            <li>Implement open source CMS applications on Drupal and WordPress CMS software and serve via reseller web hosting service</li>
+            <li>Distill client goals into functional yet beautiful web sites</li>
+            <li>Facilitate interactive feedback loops, incorporate user research and translate business requirements into user-friendly interfaces</li>
+            <li>Close the gap between complexity and flexibility, clarity and aesthetic to foster more efficient client-to-designer communication</li>
+          </ul>
+        </article>
+
+        <article>
+          <h3>Connecture / <span class="blue">UI Designer</span></h3>
+          <h4>JUNE 2010 to OCTOBER 2010 in WAUKESHA, WI</h4>
+          <ul>
+            <li>Listen to and understand customer needs, translate them via user stories, all within an agile development environment to optimize project timelines</li>
+            <li>Identify discrepancies between project specs and user requirements; communicate revisions based on best practices and accessibility standards</li>
+            <li>Map-out user interaction sequences, document UX guidelines, and establish UI style guides</li>
+            <li>Develop content strategies and employ user-centered design best practices to ensure consistency</li>
+            <li>Iterate through low-fidelity wireframes, high-fi mock-ups on to functional HTML/CSS/JS prototypes</li>
+          </ul>
+        </article>
+
+        <article>
+          <h3>Parts Unlimited / <span class="blue">Front-end Web Developer</span></h3>
+          <h4>JUNE 2008 to MAY 2009 in JANESVILLE, WI</h4>
+          <ul>
+            <li>Convert Photoshop designs into slim, accurate, fast-loading websites and maintain consistent branding throughout redesign efforts</li>
+            <li>Collaborate with dev team and various internal clients to maintain high-profile, branded sites</li>
+            <li>Meticulously integrate new functionality while surgically maintaining existing code</li>
+          </ul>
+        </article>
+
+        <article>
+          <h3>American Family Insurance / <span class="blue">Usability Engineer</span></h3>
+          <h4>JULY 2006 to JUNE 2007 in MADISON, WI</h4>
+          <ul>
+            <li>Identify and develop new user-centered design patterns for use within company&rsquo;s web app</li>
+            <li>Work with team members in producing corporate UI style guides and UX standards</li>
+            <li>Write user testing scenarios, build application prototypes, and record user testing sessions</li>
+            <li>Facilitate in user testing sessions with paper/web prototypes and eye-tracking technology</li>
+            <li>Collaborate with business team members to implement user research-backed style guides</li>
+            <li>Reinforce style guides via well-documented UI standards across web and native desktop apps</li>
+          </ul>
+        </article>
+
+        <article>
+          <h3>Trek Bicycle Corporation / <span class="blue">Web Designer</span></h3>
+          <h4>APRIL 2002 to JUNE 2006 in WATERLOO, WI</h4>
+          <ul>
+            <li>Strive for ROI with web standards-compliant web sites, and search engine optimization</li>
+            <li>Create site maps, IA guidelines, and style guides</li>
+            <li>Deliver page flow diagrams for international content to extend reach of Trek&rsquo;s product lines</li>
+            <li>Write HTML/CSS templates, develop multimedia modules, tie in multilingual content</li>
+            <li>Implement and maintain a common CMS across 4 separate Trek consumer web sites</li>
+          </ul>
+        </article>
+      </section>
+
+      <section class="education">
+        <h2>Education</h2>
+        <article>
+          <h3>University of Wisconsin&ndash;Milwaukee / <span class="blue">BFA Graphic Design</span></h3>
+          <h4>AUGUST 1997 to DECEMBER 2001 in MILWAUKEE, WI</h4>
+          <ul>
+            <li>Graduated: <b>December 2001 with a 3.4 GPA</b></li>
+            <li>Major: <b>Fine Arts and Graphic Design</b>, Minor: <b>Multimedia Communication</b></li>
+          </ul>
+        </article>
+      </section>
+
+      <section class="prodev">
+        <h2>Professional Development</h2>
+       <article>
+          <h3>DrupalCon Denver / <span class="blue">Attendee</span> <small>(&quot;non-conference,&quot; run by attendees)</small></h3>
+          <h4>MAY 2013 in DENVER, CO</h4>
+          <p><a href="https://denver2012.drupal.org" target="_blank">denver2012.drupal.org</a></p>
+        </article>
+
+        <article>
+          <h3>Drupal Camp / <span class="blue">Attendee</span> <small>(&quot;non-conference,&quot; run by attendees)</small></h3>
+          <h4>FEBRUARY 2008 in MADISON, WI</h4>
+          <p><a href="https://www.drupalcampwi.org" target="_blank">drupalcampwi.org</a></p>
+        </article>
+
+        <article>
+          <h3>Scrum Alliance / <span class="blue">Ken Schwaber Certified Scrum Master Training Series</span></h3>
+          <h4>FEBRUARY 2004 in SAN DIEGO, CA</h4>
+          <p><a href="https://www.scrumalliance.org/community/profile/rsmith8/" target="_blank">scrumalliance.org/community/profile/rsmith8</a></p>
+        </article>
+      </section>
+
+      <section class="volunteer">
+        <h2>Volunteer and Pro Bono</h2>
+        <article>
+          <h3>A11Y (Accessibility) Project website / <span class="blue">Contributor</span></h3>
+          <h4>JANUARY 2017 to PRESENT</h4>
+          <ul>
+            <li>See more about the A11Y Project at <a href="https://www.a11yproject.com" target="_blank">a11yproject.com</a> and my contributions on GitHub at <a href="https://github.com/a11yproject/a11yproject.com" target="_blank">github.com/a11yproject/a11yproject.com</a></li>
+            <li>The Project curates high-quality content or web accessibility best-practices</li>
+            <li>We aim to help make web accessibility easier for front-end developers to understand, implement, and improve upon the ever-expanding realm of responsive web technology</li>
+            <li>As an active contributor to the group&rsquo;s website via their GitHub Issue queue, contributors work with A11Y&rsquo;s existing Jekyll, HTML, Sass/SCSS, Markdown, and YAML codebase</li>
+            <li>Collaborating via the group&rsquo;s GitHub repository and developing via a local Jekyll server</li>
+          </ul>
+        </article>
+
+        <article>
+          <h3>Heartland Community Church / <span class="blue">Volunteer</span></h3>
+          <h4>OCTOBER 2012 to NOVEMBER 2016 in SUN PRAIRIE, WI</h4>
+          <ul>
+            <li>Worship Team Musician (Electric Bass)</li>
+            <li>Children&rsquo;s Ministry Lead</li>
+          </ul>
+        </article>
+
+        <article>
+          <h3>Sun Prairie Ice Arena / <span class="blue">Web Admin</span></h3>
+          <h4>SEPTEMBER 2010 to JUNE 2016 in SUN PRAIRIE, WI</h4>
+          <ul>
+            <li>Youth Ice Hockey Coach, Sun Prairie Youth Hockey Association (SPYHA)</li>
+            <li>Volunteer Website Administrator, www.sunprairieice.com</li>
+            <li>Volunteer Ice Hockey Referee, SP-Ice Adult Hockey Organization (OBHL)</li>
+          </ul>
+        </article>
+
+        <article>
+          <h3>Boy Scouts of America / <span class="blue">Pack and Den Leader</span></h3>
+          <h4>OCTOBER 2014 to MARCH 2018 in SUN PRAIRIE, WI</h4>
+          <ul>
+            <li>Volunteer Den Leader, October 2014</li>
+            <li>Pinewood Derby Committee Chair, December 2015</li>
+          </ul>
+        </article>
+      </section>
+
+      <section class="techexp">
+        <h2>Technical Experience</h2>
+        <article>
+          <h3>Skillsets / <span class="blue">Breadth of Knowledge and Ability</span></h3>
+          <h4>SOFTWARE, CODE/LANGUAGES, FRAMEWORKS</h4>
+          <ul>
+            <li>Platform Layer: MacOS, iOS, Linux, and Windows operating systems</li>
+            <li>Design Layer: Adobe Creative Suite (inc. XD), Visio, Axure, Balsamiq, and Gliffy</li>
+            <li>Browser Layer: Chrome, Firefox, Safari, Internet Explorer, and Edge</li>
+            <li>Browser Plugins: Web Inspector, YSlow, Web Developer Toolbar, Total Validator, WAVE Evaluation Tool, Accessibility Dev Tools</li>
+            <li>Handheld Device Development: iOS (iPhone and iPad), Android (phone and tablet)</li>
+            <li>IDE Layer: IntelliJ IDEA and WebStorm, Eclipse, Atom, Sublime, Brackets, Komodo</li>
+            <li>CLI: Terminal, iTabs, VIM</li>
+            <li>Application Layer: PHP, Drupal/Drush, WP-CLI, JSP/JSTL</li>
+            <li>SCM Layer: Git and GitHub, SVN, TFS w/ Git, Bitbucket, FishEye, SonarQube</li>
+            <li>Markup Layer: HTML5, CSS3, LESS, SASS/SCSS, XML, Markdown, Jade/Pug, Compass, YAML</li>
+            <li>Presentation: JS, Bootstrap, Foundation, Material, jQuery, new to Angular, Unsemantic</li>
+            <li>CMS: SAP Hybris, Drupal, WordPress, JIRA/Confluence, and MediaWiki</li>
+            <li>Web Standards and Accessibility: A11y, WAI-ARIA, WCAG, W3C, WASP, I18n, and l10n directives</li>
+            <li>Project Management (PM): Agile/SCRUM-based project management methodologies</li>
+            <li>PM SaaS: Atlassian JIRA, Trello, VersionOne, Planning Center, Pivotal Tracker, OnTime, Basecamp</li>
+          </ul>
+        </article>
+
+        <article>
+          <h3>Cloud SaaS / Web Administration</h3>
+          <h4>HOSTING, DNS, CLOUD ADMIN, ADMIN UTILITIES</h4>
+          <ul>
+            <li>Digital Ocean Droplets (private Linux VMs)</li>
+            <li>Server Pilot (Enterprise server manager for WordPress)</li>
+            <li>Google Domains and Google for Business</li>
+            <li>Acquia Dev Cloud with Apache Solr Search (Enterprise Drupal LAMP stack)</li>
+            <li>Rackspace Cloud Server (Custom Enterprise LAMP stack)</li>
+            <li>Linode (Managed/un-managed VPS LAMP stack)</li>
+            <li>Shared hosting: A2 Hosting (DNS hosting/web hosting/reseller hosting with cPanel)</li>
+            <li>WebMin and CloudMin (open source admin UI control panels)</li>
+            <li>GitHub Pages, Jekyll, GitHub Issues (open source, collaborative work space)</li>
+          </ul>
+        </article>
+
+        <article>
+          <h3>Project Management / Collaboration</h3>
+          <h4>PROCESSES / METHODOLOGIES</h4>
+          <ul>
+            <li>Agile, Scrum (Certified Scrum Master)</li>
+            <li>Agile, Hybrid (Agile/Scrum/Kanban)</li>
+            <li>Kanban</li>
+            <li>Lean, Just in Time, Toyota Way</li>
+            <li>Rational Unified Process (IBM RUP)</li>
+          </ul>
+        </article>
+      </section>
+    </main>
+
+
+    <footer>
+      <section>
+        <h2>Portfolio and References</h2>
+        <article>
+          <p>Available upon request.</p>
+        </article>
+      </section>
+    </footer>
+
+  </div>
+</body>
+</html>";s:5:"mtime";i:1555982315;s:6:"markup";s:17852:"<!DOCTYPE html>
+<html lang="en_US" class="no-js">
+<head>
+	<meta charset="utf-8">
+	<!--
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no, minimal-ui=yes">
+	-->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<title>Ryan R. Smith - Resume</title>
+
+	<meta name="keywords" content="">
+	<meta name="description" content="">
+	<!-- <meta content="index,follow" name="robots"> -->
+
+	<!-- https://necolas.github.io/normalize.css -->
+	<link href="assets/styles/normalize.min.css"
+	      rel="stylesheet"
+	      media="screen"
+	      charset="utf-8">
+
+	<!-- //developers.google.com/fonts/docs/getting_started#specifying_font_families_and_styles_in_a_stylesheet_url -->
+	<!--
+	//fonts.googleapis.com/css?family=Lato:italic|Open+Sans:bold
+	//fonts.googleapis.com/css?family=Lato:i|Open+Sans:b
+	//fonts.googleapis.com/css?family=Lato:i|Open+Sans:700
+	-->
+	<link href="//fonts.googleapis.com/css?family=Lato:100,200,400|Open+Sans:100,200,400|Abel:100,200,400"
+	      rel="stylesheet"
+	      media="screen"
+	      charset="utf-8">
+
+	<link href="assets/styles/styles.min.css"
+	      rel="stylesheet"
+	      media="screen"
+	      charset="utf-8">
+
+	<link href="assets/styles/custom.css"
+	      rel="stylesheet"
+	      media="all"
+	      charset="utf-8">
+
+	<script src="assets/js/scripts.min.js"
+	        charset="utf-8">
+</head>
+
+<body>
+  <div class="wrap">
+
+<!-- Typographic Classes
+		aSans loose w4 blue
+		lSans norm w2 grey
+		lSans norm w2 black
+ -->
+    <header>
+      <h1 class="aSans tight w4 blue">RYAN R. SMITH</h1>
+      <p class="lSans loose w2">
+        <b class="w4 blue">UX DESIGNER / UI DEVELOPER</b><br>
+        <a class="w2 black" href="tel:608-358-0515" title="Give Ryan a call">608-358-0515</a>
+        <span class="line">|</span>
+        <a href="mailto:webuxr@gmail.com">webuxr@gmail.com</a>
+        <span class="line">|</span>
+        <a href="//www.linkedin.com/in/ryansmith" title="Check out Ryan on LinkedIn" target="_blank">linkedin.com/in/ryansmith</a>
+        <span class="line">|</span>
+        <a href="//www.coroflot.com/webuxr" title="See some past and recent work from Ryan" target="_blank">coroflot.com/webuxr</a>
+        <span class="line">|</span>
+        <a href="//twitter.com/webuxr" title="See what Ryan is tweeting about">twitter.com/webuxr</a>
+      </p>
+    </header>
+
+
+    <main>
+      <section class="summary">
+        <h2>SUMMARY</h2>
+        <article>
+          <p class="lead">
+            With over 18 years of web technology experience, Ryan Smith is a passionate, user-centered designer, front-end developer, and user experience professional.
+            He subscribes to open source thinking, and coupled with his diverse portfolio, extensive software knowledge, and excellent communication skills makes him a clear choice whom will thrive within your agile team environment.
+          </p>
+        </article>
+      </section>
+
+      <section class="experience">
+        <h2>Experience</h2>
+        <article>
+          <h3>Trek Bicycle Corporation / <span class="blue">UI Engineer</span></h3>
+          <h4>FEBRUARY 2017 to FEBRUARY 2018 in WATERLOO, WI</h4>
+          <ul>
+            <li>Member of remote, multi-time zone agile development team</li>
+            <li>Utilized Atlassian JIRA backlog tracking</li>
+            <li>User-centered feature development driven by customer feedback loops</li>
+            <li>Traffic stats verifies customer feedback and traffic stats informs visual design initiatives</li>
+            <li>User stories and acceptance criteria define our work</li>
+            <li>Our definition of done constrains focus to what matters and conveys quality deliverables</li>
+            <li>Focus on responsive and accessible UI development and implementation for trekbikes.com</li>
+            <li>IntelliJ IDEA/Grunt-SCSS/Bitbucket/Jenkins workflow</li>
+            <li>Utilize the same automation test scripts locally as are deployed in higher environments</li>
+            <li>Collaborate with design team via InVision mockups</li>
+          </ul>
+        </article>
+
+        <article>
+          <h3>Farwell Project Advisors / <span class="blue">UX/UI Developer</span></h3>
+          <h4>JANUARY 2014 to JANUARY 2017 in MADISON, WI</h4>
+          <ul>
+            <li>Turn client visions into proposals, site maps, style tiles, wireframes, and HTML prototypes</li>
+            <li>Iterate through prioritized backlogs of user stories, estimate work, and track progress daily</li>
+            <li>Visualize application interfaces as style guides</li>
+            <li>Convert style tiles and wireframes into high-fidelity mockups</li>
+            <li>Re-work prototypes based on research, team feedback, and collaboration with client</li>
+            <li>Implement approved designs as theme templates in both Drupal and WordPress CMSs</li>
+            <li>Maintain CMS codebases via Git and deploy via GitHub to Digital Ocean</li>
+          </ul>
+        </article>
+
+        <article>
+          <h3>Acumium / <span class="blue">Project Manager and UI Web Developer</span></h3>
+          <h4>DECEMBER 2013 to NOVEMBER 2014 in MADISON, WI</h4>
+          <ul>
+            <li>Forecast overlapping project delivery dates and over-communicate to client</li>
+            <li>Manage 2 dev teams, split by platform in a hybrid-agile project management environment</li>
+            <li>Track KPIs (key performance indicators) and velocities to communicate team performance</li>
+            <li>Work with both internal and client-based development teams to identify, estimate, plan, and schedule work distilled into epics, feature groups, tasks, and subtasks</li>
+            <li>Divide timelines for multiple projects into weekly sprints allowing for consistent, history-driven estimation, and team member commitments</li>
+          </ul>
+        </article>
+
+        <article>
+          <h3>Diesel Forward / <span class="blue">Drupal Web Developer</span></h3>
+          <h4>NOVEMBER 2010 to SEPTEMBER 2013 in WINDSOR, WI</h4>
+          <ul>
+            <li>Leverage mature Drupal themes and modify them Zen-garden style to jumpstart new projects</li>
+            <li>Override Drupal core and contrib modules for slim, accurate, fast-loading Drupal 6 and 7 sites</li>
+            <li>Collaborate with internal clients and dev team members to maintain company&rsquo;s web sites</li>
+            <li>Migrate company&rsquo;s shared web hosting to Drupal-specific, dedicated Acquia Dev Cloud hosting</li>
+            <li>Implement SaaS products like GitHub Issues, Workfront (AtTask), and Basecamp to manage projects, track code revisions, delegate issues or tasks</li>
+            <li>Respond to support tickets and work directly with customers to resolve issues and doc solutions</li>
+          </ul>
+        </article>
+
+        <article>
+          <h3>Ratio Switch / <span class="blue">UX Designer</span></h3>
+          <h4>JANUARY 2001 to JANUARY 2010 in SUN PRAIRIE, WI</h4>
+          <ul>
+            <li>Implement open source CMS applications on Drupal and WordPress CMS software and serve via reseller web hosting service</li>
+            <li>Distill client goals into functional yet beautiful web sites</li>
+            <li>Facilitate interactive feedback loops, incorporate user research and translate business requirements into user-friendly interfaces</li>
+            <li>Close the gap between complexity and flexibility, clarity and aesthetic to foster more efficient client-to-designer communication</li>
+          </ul>
+        </article>
+
+        <article>
+          <h3>Connecture / <span class="blue">UI Designer</span></h3>
+          <h4>JUNE 2010 to OCTOBER 2010 in WAUKESHA, WI</h4>
+          <ul>
+            <li>Listen to and understand customer needs, translate them via user stories, all within an agile development environment to optimize project timelines</li>
+            <li>Identify discrepancies between project specs and user requirements; communicate revisions based on best practices and accessibility standards</li>
+            <li>Map-out user interaction sequences, document UX guidelines, and establish UI style guides</li>
+            <li>Develop content strategies and employ user-centered design best practices to ensure consistency</li>
+            <li>Iterate through low-fidelity wireframes, high-fi mock-ups on to functional HTML/CSS/JS prototypes</li>
+          </ul>
+        </article>
+
+        <article>
+          <h3>Parts Unlimited / <span class="blue">Front-end Web Developer</span></h3>
+          <h4>JUNE 2008 to MAY 2009 in JANESVILLE, WI</h4>
+          <ul>
+            <li>Convert Photoshop designs into slim, accurate, fast-loading websites and maintain consistent branding throughout redesign efforts</li>
+            <li>Collaborate with dev team and various internal clients to maintain high-profile, branded sites</li>
+            <li>Meticulously integrate new functionality while surgically maintaining existing code</li>
+          </ul>
+        </article>
+
+        <article>
+          <h3>American Family Insurance / <span class="blue">Usability Engineer</span></h3>
+          <h4>JULY 2006 to JUNE 2007 in MADISON, WI</h4>
+          <ul>
+            <li>Identify and develop new user-centered design patterns for use within company&rsquo;s web app</li>
+            <li>Work with team members in producing corporate UI style guides and UX standards</li>
+            <li>Write user testing scenarios, build application prototypes, and record user testing sessions</li>
+            <li>Facilitate in user testing sessions with paper/web prototypes and eye-tracking technology</li>
+            <li>Collaborate with business team members to implement user research-backed style guides</li>
+            <li>Reinforce style guides via well-documented UI standards across web and native desktop apps</li>
+          </ul>
+        </article>
+
+        <article>
+          <h3>Trek Bicycle Corporation / <span class="blue">Web Designer</span></h3>
+          <h4>APRIL 2002 to JUNE 2006 in WATERLOO, WI</h4>
+          <ul>
+            <li>Strive for ROI with web standards-compliant web sites, and search engine optimization</li>
+            <li>Create site maps, IA guidelines, and style guides</li>
+            <li>Deliver page flow diagrams for international content to extend reach of Trek&rsquo;s product lines</li>
+            <li>Write HTML/CSS templates, develop multimedia modules, tie in multilingual content</li>
+            <li>Implement and maintain a common CMS across 4 separate Trek consumer web sites</li>
+          </ul>
+        </article>
+      </section>
+
+      <section class="education">
+        <h2>Education</h2>
+        <article>
+          <h3>University of Wisconsin&ndash;Milwaukee / <span class="blue">BFA Graphic Design</span></h3>
+          <h4>AUGUST 1997 to DECEMBER 2001 in MILWAUKEE, WI</h4>
+          <ul>
+            <li>Graduated: <b>December 2001 with a 3.4 GPA</b></li>
+            <li>Major: <b>Fine Arts and Graphic Design</b>, Minor: <b>Multimedia Communication</b></li>
+          </ul>
+        </article>
+      </section>
+
+      <section class="prodev">
+        <h2>Professional Development</h2>
+       <article>
+          <h3>DrupalCon Denver / <span class="blue">Attendee</span> <small>(&quot;non-conference,&quot; run by attendees)</small></h3>
+          <h4>MAY 2013 in DENVER, CO</h4>
+          <p><a href="https://denver2012.drupal.org" target="_blank">denver2012.drupal.org</a></p>
+        </article>
+
+        <article>
+          <h3>Drupal Camp / <span class="blue">Attendee</span> <small>(&quot;non-conference,&quot; run by attendees)</small></h3>
+          <h4>FEBRUARY 2008 in MADISON, WI</h4>
+          <p><a href="https://www.drupalcampwi.org" target="_blank">drupalcampwi.org</a></p>
+        </article>
+
+        <article>
+          <h3>Scrum Alliance / <span class="blue">Ken Schwaber Certified Scrum Master Training Series</span></h3>
+          <h4>FEBRUARY 2004 in SAN DIEGO, CA</h4>
+          <p><a href="https://www.scrumalliance.org/community/profile/rsmith8/" target="_blank">scrumalliance.org/community/profile/rsmith8</a></p>
+        </article>
+      </section>
+
+      <section class="volunteer">
+        <h2>Volunteer and Pro Bono</h2>
+        <article>
+          <h3>A11Y (Accessibility) Project website / <span class="blue">Contributor</span></h3>
+          <h4>JANUARY 2017 to PRESENT</h4>
+          <ul>
+            <li>See more about the A11Y Project at <a href="https://www.a11yproject.com" target="_blank">a11yproject.com</a> and my contributions on GitHub at <a href="https://github.com/a11yproject/a11yproject.com" target="_blank">github.com/a11yproject/a11yproject.com</a></li>
+            <li>The Project curates high-quality content or web accessibility best-practices</li>
+            <li>We aim to help make web accessibility easier for front-end developers to understand, implement, and improve upon the ever-expanding realm of responsive web technology</li>
+            <li>As an active contributor to the group&rsquo;s website via their GitHub Issue queue, contributors work with A11Y&rsquo;s existing Jekyll, HTML, Sass/SCSS, Markdown, and YAML codebase</li>
+            <li>Collaborating via the group&rsquo;s GitHub repository and developing via a local Jekyll server</li>
+          </ul>
+        </article>
+
+        <article>
+          <h3>Heartland Community Church / <span class="blue">Volunteer</span></h3>
+          <h4>OCTOBER 2012 to NOVEMBER 2016 in SUN PRAIRIE, WI</h4>
+          <ul>
+            <li>Worship Team Musician (Electric Bass)</li>
+            <li>Children&rsquo;s Ministry Lead</li>
+          </ul>
+        </article>
+
+        <article>
+          <h3>Sun Prairie Ice Arena / <span class="blue">Web Admin</span></h3>
+          <h4>SEPTEMBER 2010 to JUNE 2016 in SUN PRAIRIE, WI</h4>
+          <ul>
+            <li>Youth Ice Hockey Coach, Sun Prairie Youth Hockey Association (SPYHA)</li>
+            <li>Volunteer Website Administrator, www.sunprairieice.com</li>
+            <li>Volunteer Ice Hockey Referee, SP-Ice Adult Hockey Organization (OBHL)</li>
+          </ul>
+        </article>
+
+        <article>
+          <h3>Boy Scouts of America / <span class="blue">Pack and Den Leader</span></h3>
+          <h4>OCTOBER 2014 to MARCH 2018 in SUN PRAIRIE, WI</h4>
+          <ul>
+            <li>Volunteer Den Leader, October 2014</li>
+            <li>Pinewood Derby Committee Chair, December 2015</li>
+          </ul>
+        </article>
+      </section>
+
+      <section class="techexp">
+        <h2>Technical Experience</h2>
+        <article>
+          <h3>Skillsets / <span class="blue">Breadth of Knowledge and Ability</span></h3>
+          <h4>SOFTWARE, CODE/LANGUAGES, FRAMEWORKS</h4>
+          <ul>
+            <li>Platform Layer: MacOS, iOS, Linux, and Windows operating systems</li>
+            <li>Design Layer: Adobe Creative Suite (inc. XD), Visio, Axure, Balsamiq, and Gliffy</li>
+            <li>Browser Layer: Chrome, Firefox, Safari, Internet Explorer, and Edge</li>
+            <li>Browser Plugins: Web Inspector, YSlow, Web Developer Toolbar, Total Validator, WAVE Evaluation Tool, Accessibility Dev Tools</li>
+            <li>Handheld Device Development: iOS (iPhone and iPad), Android (phone and tablet)</li>
+            <li>IDE Layer: IntelliJ IDEA and WebStorm, Eclipse, Atom, Sublime, Brackets, Komodo</li>
+            <li>CLI: Terminal, iTabs, VIM</li>
+            <li>Application Layer: PHP, Drupal/Drush, WP-CLI, JSP/JSTL</li>
+            <li>SCM Layer: Git and GitHub, SVN, TFS w/ Git, Bitbucket, FishEye, SonarQube</li>
+            <li>Markup Layer: HTML5, CSS3, LESS, SASS/SCSS, XML, Markdown, Jade/Pug, Compass, YAML</li>
+            <li>Presentation: JS, Bootstrap, Foundation, Material, jQuery, new to Angular, Unsemantic</li>
+            <li>CMS: SAP Hybris, Drupal, WordPress, JIRA/Confluence, and MediaWiki</li>
+            <li>Web Standards and Accessibility: A11y, WAI-ARIA, WCAG, W3C, WASP, I18n, and l10n directives</li>
+            <li>Project Management (PM): Agile/SCRUM-based project management methodologies</li>
+            <li>PM SaaS: Atlassian JIRA, Trello, VersionOne, Planning Center, Pivotal Tracker, OnTime, Basecamp</li>
+          </ul>
+        </article>
+
+        <article>
+          <h3>Cloud SaaS / Web Administration</h3>
+          <h4>HOSTING, DNS, CLOUD ADMIN, ADMIN UTILITIES</h4>
+          <ul>
+            <li>Digital Ocean Droplets (private Linux VMs)</li>
+            <li>Server Pilot (Enterprise server manager for WordPress)</li>
+            <li>Google Domains and Google for Business</li>
+            <li>Acquia Dev Cloud with Apache Solr Search (Enterprise Drupal LAMP stack)</li>
+            <li>Rackspace Cloud Server (Custom Enterprise LAMP stack)</li>
+            <li>Linode (Managed/un-managed VPS LAMP stack)</li>
+            <li>Shared hosting: A2 Hosting (DNS hosting/web hosting/reseller hosting with cPanel)</li>
+            <li>WebMin and CloudMin (open source admin UI control panels)</li>
+            <li>GitHub Pages, Jekyll, GitHub Issues (open source, collaborative work space)</li>
+          </ul>
+        </article>
+
+        <article>
+          <h3>Project Management / Collaboration</h3>
+          <h4>PROCESSES / METHODOLOGIES</h4>
+          <ul>
+            <li>Agile, Scrum (Certified Scrum Master)</li>
+            <li>Agile, Hybrid (Agile/Scrum/Kanban)</li>
+            <li>Kanban</li>
+            <li>Lean, Just in Time, Toyota Way</li>
+            <li>Rational Unified Process (IBM RUP)</li>
+          </ul>
+        </article>
+      </section>
+    </main>
+
+
+    <footer>
+      <section>
+        <h2>Portfolio and References</h2>
+        <article>
+          <p>Available upon request.</p>
+        </article>
+      </section>
+    </footer>
+
+  </div>
+</body>
+</html>";s:4:"code";N;}}

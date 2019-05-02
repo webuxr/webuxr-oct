@@ -1,0 +1,5 @@
+body {
+	border: 30px solid orange;
+	font-family: 'Helvetica Neue', helvetica, arial, sans-serif;
+	padding: 20px;
+}

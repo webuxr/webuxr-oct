@@ -1,0 +1,32 @@
+1555365559a:1:{s:11:"default.htm";a:5:{s:8:"fileName";s:11:"default.htm";s:7:"content";s:387:"<!DOCTYPE html>
+<html>
+    <head>
+        <title>{{ this.page.title }}</title>
+        <link href="{{ ['assets/styles.css', 'assets/fonts.css']|theme }}" rel="stylesheet">
+    </head>
+    <body>
+        <h1><a href="{{ 'home'|page }}">{{ this.page.title }}</a></h1>
+
+        {% page %}
+
+        <hr>
+
+        {% partial 'footer' name='Joey Salads' %}
+    </body>
+</html>
+";s:5:"mtime";i:1555364955;s:6:"markup";s:385:"<!DOCTYPE html>
+<html>
+    <head>
+        <title>{{ this.page.title }}</title>
+        <link href="{{ ['assets/styles.css', 'assets/fonts.css']|theme }}" rel="stylesheet">
+    </head>
+    <body>
+        <h1><a href="{{ 'home'|page }}">{{ this.page.title }}</a></h1>
+
+        {% page %}
+
+        <hr>
+
+        {% partial 'footer' name='Joey Salads' %}
+    </body>
+</html>";s:4:"code";N;}}

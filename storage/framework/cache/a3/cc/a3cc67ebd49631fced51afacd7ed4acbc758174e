@@ -1,0 +1,25 @@
+1555987149a:1:{s:10:"welcome.md";a:6:{s:8:"fileName";s:10:"welcome.md";s:7:"content";s:228:"<!-- welcome.md -->
+
+You know what I like more than *material things?*
+
+### Knowledge (it's an h3-thing)
+
++ You must have enough fuel units
++ You must construct additional pylons
++ This content is from `content/welcome.md`
+";s:5:"mtime";i:1555986493;s:6:"markup";s:226:"<!-- welcome.md -->
+
+You know what I like more than *material things?*
+
+### Knowledge (it's an h3-thing)
+
++ You must have enough fuel units
++ You must construct additional pylons
++ This content is from `content/welcome.md`";s:4:"code";N;s:12:"parsedMarkup";s:281:"<!-- welcome.md -->
+<p>You know what I like more than <em>material things?</em></p>
+<h3>Knowledge (it's an h3-thing)</h3>
+<ul>
+<li>You must have enough fuel units</li>
+<li>You must construct additional pylons</li>
+<li>This content is from <code>content/welcome.md</code></li>
+</ul>";}}

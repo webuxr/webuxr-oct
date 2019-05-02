@@ -1,0 +1,8 @@
+1555365845a:1:{s:10:"footer.htm";a:5:{s:8:"fileName";s:10:"footer.htm";s:7:"content";s:182:"Thanks for visiting {{ name }}! Like us on facebook...
+
+<a href="{{ 'index'|page }}">Return home</a>, or
+<a href="{{ 'about'|page({ filename: 'welcome' }) }}">learn about us</a>
+";s:5:"mtime";i:1555365243;s:6:"markup";s:180:"Thanks for visiting {{ name }}! Like us on facebook...
+
+<a href="{{ 'index'|page }}">Return home</a>, or
+<a href="{{ 'about'|page({ filename: 'welcome' }) }}">learn about us</a>";s:4:"code";N;}}
