@@ -17,5 +17,15 @@ sftp-config.json
 selenium.php
 composer.lock
 
+# private files
+/config/app.php
+/config/cms.php
+/config/database.php
+/config/mail.php
+
 # for netbeans
 nbproject
+
+# for intellij
+.idea
+
