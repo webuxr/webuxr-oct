@@ -1,6 +1,6 @@
 {
   "name": "foundation-sites-template",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Basic template for a new Foundation for Sites project.",
   "main": "gulpfile.js",
   "scripts": {
@@ -25,7 +25,8 @@
     "gulp": "github:gulpjs/gulp#v4.0.0-alpha.3",
     "gulp-load-plugins": "^1.1.0",
     "gulp-postcss": "^8.0.0",
-    "gulp-sass": "^4.0.2"
+    "gulp-sass": "^4.0.2",
+    "tar": ">=4.4.2"
   },
   "repository": {
     "type": "git",
