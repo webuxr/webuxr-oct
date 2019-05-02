@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>{{ this.page.title }}</title>
+        <link href="{{ ['assets/styles.css', 'assets/fonts.css']|theme }}" rel="stylesheet">
+    </head>
+    <body>
+        <h1><a href="{{ 'home'|page }}">{{ this.page.title }}</a></h1>
+
+        {% page %}
+
+        <hr>
+
+        {% partial 'footer' name='Joey Salads' %}
+    </body>
+</html>
