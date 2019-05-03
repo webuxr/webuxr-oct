@@ -16,6 +16,7 @@ sftp-config.json
 .ftpconfig
 selenium.php
 composer.lock
+yarn.lock
 
 # private files
 /config/app.php
@@ -24,8 +25,8 @@ composer.lock
 /config/mail.php
 
 # cache and sessions
-storage/framework/cache
-storage/framework/sessions
+/storage/framework/cache
+/storage/framework/sessions
 
 # for netbeans
 nbproject
