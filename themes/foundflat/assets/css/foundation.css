@@ -999,10 +999,10 @@ select {
       color: #fefefe; }
   .button.success {
     background-color: #1ca357;
-    color: #0a0a0a; }
+    color: #fefefe; }
     .button.success:hover, .button.success:focus {
       background-color: #168246;
-      color: #0a0a0a; }
+      color: #fefefe; }
   .button.warning {
     background-color: #f37121;
     color: #0a0a0a; }

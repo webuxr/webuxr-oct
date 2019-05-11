@@ -9,7 +9,7 @@
     'assets/css/foundation.min.css',
     'assets/css/app.css',
     'assets/css/styles.css'
-  ]|theme }}" rel="stylesheet">
+    ]|theme }}" rel="stylesheet">
 
   <!-- <link href="{{ [
     'partials/building-blocks/top-bar-nav.scss'
@@ -17,21 +17,21 @@
 </head>
 
 <body>
-      <!-- START: Header -->
-      {% partial 'header' %}
-      <!-- END: Header -->
-
+  <!-- START: Header -->
+  {% partial 'header' %}
+  <!-- END: Header -->
 
   <div class="grid-container">
+
     <div class="grid-x grid-padding-x">
       <!-- START: Content -->
       <div class="large-12 cell">
         <h1>{{ this.page.title }}</h1>
+        <hr>
         {% page %}
       </div>
       <!-- END: Content -->
     </div>
-
 
     <div class="grid-x grid-padding-x">
       <!-- START: Footer -->
