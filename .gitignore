@@ -25,7 +25,9 @@ yarn.lock
 /config/mail.php
 
 # cache and sessions
-/storage/framework/cache
+/storage/*/cache
+/storage/cms/combiner/*
+/storage/cms/twig/*
 /storage/framework/sessions
 
 # for netbeans
