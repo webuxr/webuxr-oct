@@ -11,9 +11,13 @@
     'assets/css/styles.css'
     ]|theme }}" rel="stylesheet">
 
+  {% placeholder styles %}
+
   <!-- <link href="{{ [
     'partials/building-blocks/top-bar-nav.scss'
   ]|theme }}" rel="stylesheet"> -->
+
+  {% placeholder scripts %}
 </head>
 
 <body>
@@ -26,7 +30,7 @@
     <div class="grid-x grid-padding-x">
       <!-- START: Content -->
       <div class="large-12 cell">
-        <h1>{{ this.page.title }}</h1>
+        <h1 style="line-height:1; margin:0; padding:20px 0 0;">{{ this.page.title }}</h1>
         <hr>
         {% page %}
       </div>
@@ -44,11 +48,12 @@
   </div><!-- END: .grid-container -->
 
   <script src="{{ [
-    'assets/js/vendor/jquery-slim.min.js',
+    'assets/js/vendor/jquery.min.js',
     'assets/js/vendor/what-input.min.js',
     'assets/js/vendor/foundation.min.js',
     'assets/js/app.js'
   ]|theme }}"></script>
-</body>
 
+  {% placeholder fscripts %}
+</body>
 </html>

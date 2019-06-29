@@ -1,4 +1,4 @@
-<!-- resume.md -->
+<!-- content/resume.md -->
 
 A line of *super important* text.
 

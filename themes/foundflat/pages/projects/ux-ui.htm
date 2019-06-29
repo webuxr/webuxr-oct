@@ -1,12 +1,12 @@
-title = "Resume"
-url = "/about/:filename?"
+title = "UX/UI"
+url = "/projects/:filename?"
 layout = "default-blank"
 ==
 <?php
 function onStart() {
-  $filename = $this->param('filename', 'resume');
+  $filename = $this->param('filename', 'ux-ui');
 
-  if ($filename !== 'resume') {
+  if ($filename !== 'ux-ui') {
     return Redirect::to('/404');
   }
 
@@ -15,5 +15,3 @@ function onStart() {
 ?>
 ==
 {% content filename ~ '.md' %}
-
-This is the <b>resume</b>.

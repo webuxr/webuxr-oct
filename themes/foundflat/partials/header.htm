@@ -6,48 +6,57 @@
     <span data-responsive-toggle="responsive-menu" data-hide-for="medium">
       <button class="menu-icon" type="button" data-toggle></button>
     </span>
-    <strong>Site Title</strong>
+    <strong>Octo-UXr</strong>
   </div>
 
   <div id="responsive-menu">
     <div class="top-bar-left">
       <ul class="dropdown vertical medium-horizontal menu" data-responsive-menu="drilldown medium-dropdown" data-auto-height="true" data-animate-height="true">
         <li>
-          <a href="#">One</a>
+          <a href="/">Home</a>
+        </li>
+
+        <li>
+          <a href="/about">About</a>
           <ul class="menu">
-            <li><a href="#">One</a></li>
-
-            <li><a href="#">Two</a></li>
-
+            <li><a href="/about">Me</a></li>
+            <li><a href="/about/welcome">Resume/CV</a></li>
             <li>
-              <a href="#">Three</a>
-              <ul class="menu">
-                <li><a href="#">One</a></li>
-                <li><a href="#">Two</a></li>
-                <li>
-                  <a href="#">Three</a>
-                  <ul class="menu">
-                    <li><a href="#">One</a></li>
-                    <li><a href="#">Two</a></li>
-                    <li><a href="#">Three</a></li>
-                  </ul>
-                </li>
-              </ul>
-            </li>
-
           </ul>
         </li>
-        <li><a href="#">Two</a></li>
-        <li><a href="#">Three</a></li>
+
+        <li>
+          <a href="/projects">Projects</a>
+          <ul class="menu">
+            <li><a href="/projects/ux-ui">UX/UI</a></li>
+            <li><a href="/projects/infographics">Infographics</a></li>
+            <li>
+              <a href="/projects/site-design">Site Design</a>
+              <ul class="menu">
+                <li><a href="/projects/site-design/site-1">Site 1</a></li>
+                <li><a href="/projects/site-design/site-2">Site 2</a></li>
+                <li><a href="/projects/site-design/site-3">Site 3</a></li>
+              </ul>
+            </li>
+          </ul><!-- END: Projects nav -->
+        </li>
+
+        <li><a href="/contact">Contact</a></li>
+
       </ul>
-    </div>
+    </div><!-- END: .top-bar-left -->
 
     <div class="top-bar-right">
-      <ul class="menu">
+      <!-- { % placeholder search % } -->
+      <!-- <ul class="menu">
         <li><input type="search" placeholder="Search"></li>
         <li><button type="button" class="button">Search</button></li>
+      </ul> -->
+      <ul class="menu">
+        <li><a href="/blog">Blog</a></li>
+        <!-- <li><a href="/contact">Contact</a></li> -->
       </ul>
-    </div>
+    </div><!-- END: .top-bar-right -->
 
   </div>
 </div>
